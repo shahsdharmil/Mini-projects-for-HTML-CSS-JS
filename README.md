@@ -5,4 +5,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 2. Progress Steps - Progressing 4 steps counter from start to end (on a click).
 3. Rotating Nav Animation - The whole Web-page rotates anti-clockwise to view the Navigation Bar.
 4. Hidden Search Widget - Toggle Search Widget on a click.
-5. Blurry Loading - Slowly load a picture
+5. Blurry Loading - Slowly load a picture from blur
