@@ -7,4 +7,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 4. Hidden Search Widget - Toggle Search Widget on a click.
 5. Blurry Loading - Slowly load a picture from blur to clear.
 6. Scroll Animation - Displaying dynamic content on scrolling.
-7. Split
+7. Split Landing Page
