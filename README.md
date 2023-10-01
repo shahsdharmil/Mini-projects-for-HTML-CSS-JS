@@ -8,5 +8,5 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 5. Blurry Loading - Slowly load a picture from blur to clear.
 6. Scroll Animation - Displaying dynamic content on scrolling.
 7. Split Landing Page - Splitted web page for 2 products.
-8. Form Input Wave - Styling for taking input in a wave
+8. Form Input Wave - Styling for taking input in a wave.
 9. Sound Board - Play different sounds on clicking a button.
