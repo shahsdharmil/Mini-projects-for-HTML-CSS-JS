@@ -10,4 +10,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 7. Split Landing Page - Splitted web page for 2 products.
 8. Form Input Wave - Styling for taking input in a wave.
 9. Sound Board - Play different sounds on clicking a button.
-10. Dad Jokes - Display and change jokes on the click of a button
+10. Dad Jokes - Display and change jokes on the click of a button.
