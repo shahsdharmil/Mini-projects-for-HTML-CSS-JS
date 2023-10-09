@@ -13,4 +13,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 10. Dad Jokes - Display and change jokes on the click of a button.
 11. Event Keycodes - Show the codes of a key by clicking it.
 12. Faq Collapse - Collapseable multiple FAQ's.
-13. Random Choice Picker
+13. Random Choice Picker - Helps to choose between multiple 
