@@ -12,4 +12,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 9. Sound Board - Play different sounds on clicking a button.
 10. Dad Jokes - Display and change jokes on the click of a button.
 11. Event Keycodes - Show the codes of a key by clicking it.
-12. Faq Collapse
+12. Faq Collapse - Collapseable
