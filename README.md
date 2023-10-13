@@ -14,4 +14,4 @@ Mini projects for Frontend Web Development using just the basics of HTML CSS JS.
 11. Event Keycodes - Show the codes of a key by clicking it.
 12. Faq Collapse - Collapseable multiple FAQ's.
 13. Random Choice Picker - Helps us to choose between multiple choices.
-14. Animaed Navigation 
+14. Animaed Navigation - 
